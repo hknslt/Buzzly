@@ -1,4 +1,4 @@
-# firebase_deneme
+# Buzzly
 
 A new Flutter project.
 
